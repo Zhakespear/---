@@ -15,3 +15,5 @@
 本人运行环境：python 3.9.7 其他环境自行测试
 安装依赖：opencv，pyautogui，pynput
 
+skrskrskr
+
